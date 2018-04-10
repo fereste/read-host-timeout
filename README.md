@@ -1,2 +1,2 @@
-# read-host-timeout
+# Read-HostWithTimeout
 Powershell Read-Host with timeout
